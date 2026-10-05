@@ -54,6 +54,8 @@ print(fruits[0],fruits[7],fruits[3])
 
 #5.
 a = input("enter list: ").split()
+
+
 for i,val in enumerate(a):
     print(i,",",val)
 #output:

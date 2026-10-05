@@ -1,4 +1,4 @@
-# Exercise 8: Print first N natural numbers using while loop
+ # Exercise 8: Print first N natural numbers using while loop
 n = int(input("Enter N: "))
 i = 1
 print("First", n, "natural numbers:")
